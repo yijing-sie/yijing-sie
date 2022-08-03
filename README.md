@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👋 Hi, I am a recent grad actively looking for a full-time job in Machine Learning 🎓 
 
-<!--
-**yijing-sie/yijing-sie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*   I hold a master's degree in Electrical and Computer Engineering from 
+Carnegie Mellon University and a bachelor's degree in Electrical Engineering from National Taiwan Ocean University. 
+
+*   I have conducted two machine learning independent research projects, the first about Image Processing and the second about Anomaly Detection, in college; At CMU, I deepened and broadened my knowledge in machine learning with coursework and course projects.
+
+
+🔗 Feel free to message me about any inquiries via [LinkedIn](www.linkedin.com/in/yijing-sie) !
+
+
+ **Programming Languages: Python, C, Java, Haskell, C++, Matlab**
