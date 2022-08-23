@@ -10,7 +10,7 @@ Carnegie Mellon University and a bachelor's degree in Electrical Engineering fro
 *   I have conducted two machine learning independent research projects, the first about Image Processing and the second about Anomaly Detection, in college; At CMU, I deepened and broadened my knowledge in machine learning with coursework and course projects.
 
 
-🔗 Feel free to message me about any inquiries via [LinkedIn](www.linkedin.com/in/yijing-sie) !
+🔗 Feel free to message me about any inquiries via [LinkedIn](https://www.linkedin.com/in/yijing-sie/) !
 
 
  **Programming Languages: Python, C, Java, Haskell, C++, Matlab**
