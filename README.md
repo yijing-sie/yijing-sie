@@ -1,4 +1,4 @@
-## 👋 Hi, I am a recent grad actively looking for a full-time job in Machine Learning/SWE
+## 👋 Hi, I am a recent grad actively looking for a full-time job in Software Engineering/Machine Learning
 
 
 
