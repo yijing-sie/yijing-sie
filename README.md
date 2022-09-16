@@ -2,7 +2,7 @@
 
 
 [My website](https://yijing-sie.github.io/)
----
+
 
 *   I hold a master's degree in Electrical and Computer Engineering from 
 Carnegie Mellon University and a bachelor's degree in Electrical Engineering from National Taiwan Ocean University. 
