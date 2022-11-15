@@ -1,6 +1,3 @@
-## 👋 Hi, I am a recent grad actively looking for a Software Engineering/Machine Learning job
-
-
 * [My website](https://yijing-sie.github.io/)
 
 
