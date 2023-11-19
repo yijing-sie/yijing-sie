@@ -11,10 +11,10 @@
 
 
 
-**Programming Language: Python, C, Java, C++, Haskell, MATLAB** 
+**Programming Language** : Python, C, Java, C++, Haskell, MATLAB
 
-**Operating Systems: Linux, Microsoft Windows**
+**Operating Systems**: Linux, Microsoft Windows
 
-**Scientific Libraries: PyTorch, TensorFlow, NumPy, SciPy, Pandas, Scikit-Learn, FastAPI, OpenCV, JavaFx, PySpark**
+**Scientific Libraries**: PyTorch, TensorFlow, NumPy, SciPy, Pandas, Scikit-Learn, FastAPI, OpenCV, JavaFx, PySpark
 
-**Technical Tools: Docker, Git, bash, Android Studio**
+**Technical Tools**: Docker, Git, bash, Android Studio
